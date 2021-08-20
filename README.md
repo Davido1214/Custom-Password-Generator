@@ -9,4 +9,4 @@ This webpage was built with HTML CSS and JS
 ## Webpage link
 https://davido1214.github.io/Custom-Password-Generator/
 
-##![Image](./WebImage.png)
+![Image](./WebImage.png)
